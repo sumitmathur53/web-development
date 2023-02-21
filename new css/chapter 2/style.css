@@ -1,0 +1,15 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.red{
+    background-color: bisque;
+    color: black;
+    height: 100px;
+}
+
+.green{
+    background-color: aquamarine;
+    color: brown;
+}
